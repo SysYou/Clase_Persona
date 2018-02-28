@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelitas.UI", "Fidelitas.UI\Fidelitas.UI.csproj", "{4C647274-D4E0-4E32-A396-F748B1A3ABFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelitas.BS", "Fidelitas.BS\Fidelitas.BS.csproj", "{EB1D953E-0377-46AA-A7E6-52926CFBCF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelitas.DAL", "Fidelitas.DAL\Fidelitas.DAL.csproj", "{DA615EB6-3557-42AC-979F-22AFE816FFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fidelitas.DO", "Fidelitas.DO\Fidelitas.DO.csproj", "{72D65D58-A5BB-409C-B254-CF373AA5FE04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL - Scripts", "SQL - Scripts", "{90C4311C-13E2-42EE-A387-55C576AD27CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C647274-D4E0-4E32-A396-F748B1A3ABFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C647274-D4E0-4E32-A396-F748B1A3ABFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C647274-D4E0-4E32-A396-F748B1A3ABFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C647274-D4E0-4E32-A396-F748B1A3ABFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1D953E-0377-46AA-A7E6-52926CFBCF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1D953E-0377-46AA-A7E6-52926CFBCF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1D953E-0377-46AA-A7E6-52926CFBCF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1D953E-0377-46AA-A7E6-52926CFBCF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA615EB6-3557-42AC-979F-22AFE816FFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA615EB6-3557-42AC-979F-22AFE816FFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA615EB6-3557-42AC-979F-22AFE816FFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA615EB6-3557-42AC-979F-22AFE816FFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D65D58-A5BB-409C-B254-CF373AA5FE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D65D58-A5BB-409C-B254-CF373AA5FE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D65D58-A5BB-409C-B254-CF373AA5FE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D65D58-A5BB-409C-B254-CF373AA5FE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
